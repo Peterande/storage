@@ -34,7 +34,6 @@ saved_filtered_view/
 saved_predictions_view/
 code/
 *.zip
-*.jpg
 *.ttf
 vis.py
 start.sh
