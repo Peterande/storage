@@ -18,7 +18,6 @@ not_tracked_dir/
 output/*/*.pth
 output/*/eval/
 imgs/
-figs/
 plot*.py
 *.onnx
 *.engine
