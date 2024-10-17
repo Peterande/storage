@@ -39,3 +39,4 @@ start.sh
 D-FINE/
 all_plot.py
 .history
+./logs/
